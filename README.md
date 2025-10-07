@@ -13,4 +13,5 @@ Smooth hover and transition effects
 🧠 Tech Stack
 HTML5
 Tailwind CSS
+
 thank you for visiting my 🌿 Greenden - Plant Store Website
